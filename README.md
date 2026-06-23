@@ -1,6 +1,6 @@
 
   
-![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=gray)
+![](https://api.visitorbadge.io/api/VAMPSHit?user=CRIMSON0RGANEXTRACTION&repo=github-VAMPS-badge&countColor=Llightgray)
 
 
 
