@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?CRIMSON0RGANEXTRACTION&color=lightgrey)
+[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION
 
 
 
