@@ -2,7 +2,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=lightgrey)
 
 
-[STRAWPAGE]([https://fanged0rgans.straw.page)                     [RENTRY](https://rentry.co/orgnaz)  
+[STRAWPAGE](https://fanged0rgans.straw.page)                    [RENTRY](https://rentry.co/orgnaz)  
 
 
 <img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/8307ecdc-9704-45c8-867a-68f8745ce4ad" />
