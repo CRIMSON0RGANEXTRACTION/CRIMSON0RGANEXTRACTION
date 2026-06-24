@@ -6,7 +6,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=lightgrey)
 
 
-[STRAWPAGE](https://fanged0rgans.straw.page)             
+[$${\color{white}Spill\sSTRAWPAGE](https://fanged0rgans.straw.page)             
 
 
 [RENTRY](https://rentry.co/orgnaz)  
