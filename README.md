@@ -4,14 +4,14 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=lightgrey)
 
-<p align="center">
+
 [STRAWPAGE](https://fanged0rgans.straw.page)             
 
-<p align="center">
+
 [RENTRY](https://rentry.co/orgnaz)  
 
 
-<p align="center">
+
 [ATABOOK](https://organz.atabook.org/)  
 
 
