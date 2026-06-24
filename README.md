@@ -5,7 +5,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=lightgrey)
 
-[<p align="left to right">]
+[<p align="left">]                                   [<p align="center">]                      [<p align="right">]      
 [**STRAWPAGE**](https://fanged0rgans.straw.page)     [**RENTRY**](https://rentry.co/orgnaz)     [**ATABOOK**](https://organz.atabook.org/)  
         
 
