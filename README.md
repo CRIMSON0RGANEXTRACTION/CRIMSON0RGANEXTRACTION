@@ -1,4 +1,4 @@
-<img width="1000" height="31" alt="122" src="https://github.com/user-attachments/assets/8be60f41-3457-49b9-8443-d53cc675534b" />
+<img width="1000" height="92" alt="divider" src="https://github.com/user-attachments/assets/d99467da-910e-4615-936d-aa002d39c61e" />
 
 
 
@@ -36,3 +36,4 @@ $${\color{white}Spill\space your \space \color{#8b0000}guts \space \color{white}
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
+<img width="1000" height="92" alt="divider 2" src="https://github.com/user-attachments/assets/8ff68432-c0b8-42ca-9044-ffaf2ae8f5ec" />
