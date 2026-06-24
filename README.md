@@ -28,6 +28,7 @@ $${\color{white}Spill\space your \space \color{#8b0000}guts \space \color{white}
 
 <img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/3f0c8b8d-0416-46e9-b248-a83b98d9286f" />
 
+<img width="99" height="55" alt="i support vampires" src="https://github.com/user-attachments/assets/678b5b87-76b1-481c-9cfe-0916c3827159" />
 
 
 
