@@ -16,7 +16,7 @@
 <img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/3f0c8b8d-0416-46e9-b248-a83b98d9286f" />
 
 <p align="center">
-$${\color{white}Spill\space your \space \color{red}guts \space \color{white} and i'll paint them}$$
+$${\color{white}Spill\space your \space \color{red}guts \space \color{white} and i'll\space paint\space them}$$
   
 <p align="center">
 <img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/1a97f8db-59d6-46ef-aadd-5faf0d22c700" />
