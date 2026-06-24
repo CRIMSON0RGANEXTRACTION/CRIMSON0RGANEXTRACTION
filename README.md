@@ -16,8 +16,8 @@
 <img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/3f0c8b8d-0416-46e9-b248-a83b98d9286f" />
 
 <p align="center">
-<code style="color : white">spill your guts and i'll paint them love</code>
-
+$${\color{white}Spill your \space \color{red}guts \space \color{white}and i'll paint them}$$
+  
 <p align="center">
 <img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/1a97f8db-59d6-46ef-aadd-5faf0d22c700" />
 
