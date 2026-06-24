@@ -5,16 +5,11 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CRIMSON0RGANEXTRACTION&repo=github-vamps-badge&countColor=lightgrey)
 
-
-[**STRAWPAGE**](https://fanged0rgans.straw.page)             
-
-
-[**RENTRY**](https://rentry.co/orgnaz)  
+{<p align="left">}
+[**STRAWPAGE**](https://fanged0rgans.straw.page)     [**RENTRY**](https://rentry.co/orgnaz)     [**ATABOOK**](https://organz.atabook.org/)  
+        
 
 
-
-[<p align="center">]
-[**ATABOOK**](https://organz.atabook.org/)  
 
 
 <p align="center">
