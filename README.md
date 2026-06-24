@@ -15,7 +15,7 @@
 
 [<p align="center">]
 [**ATABOOK**](https://organz.atabook.org/)  
-<P>
+
 
 <p align="center">
 <img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/3f0c8b8d-0416-46e9-b248-a83b98d9286f" />
