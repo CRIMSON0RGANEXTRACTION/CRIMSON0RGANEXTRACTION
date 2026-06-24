@@ -26,6 +26,7 @@ $${\color{white}Spill\space your \space \color{#8b0000}guts \space \color{white}
 <img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/1a97f8db-59d6-46ef-aadd-5faf0d22c700" />
 
 
+<img width="1000" height="30" alt="1" src="https://github.com/user-attachments/assets/3f0c8b8d-0416-46e9-b248-a83b98d9286f" />
 
 
 
