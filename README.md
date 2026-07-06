@@ -18,7 +18,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <details>
   <summary>$${\color{darkred}PRONOUNS}$$</summary>
   
-  *YOU MAY USE :*
+  $${\color{darkred}*YOU MAY USE :}$$
   1. $${\color{darkred}HE/HIM}$$
   2. $${\color{darkred}IT/ITS}$$
   3. $${\color{darkblue}HEY/THEM}$$
