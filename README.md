@@ -13,7 +13,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <details>
   <summary>$${\color{darkred}MORE INFO!}$$</summary>
   
-  $${\color{darkgreen}*LINKS* :}$$
+
   
   [STRAWPAGE](https://fanged0rgans.straw.page/) 
   [ATABOOK](https://organz.atabook.org/)         
