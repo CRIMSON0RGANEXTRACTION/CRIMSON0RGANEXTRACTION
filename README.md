@@ -10,6 +10,9 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/41468ad3-852a-403f-9db1-0fad4f48129f" />
 
 
+<p align=left>
+  
+[STRAWPAGE](https://fanged0rgans.straw.page/)
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
 
