@@ -11,7 +11,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <details>
-  <summary>$${\color{darkred}MORE INFO!}$$</summary>
+  <summary>$${\color{darkred}MORE\space INFO!}$$</summary>
   
 
   
