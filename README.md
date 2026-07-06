@@ -1,15 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=lightgrey)
 
-<img width="1000" height="111" alt="banner1" src="https://github.com/user-attachments/assets/445f888f-2ada-4915-b549-59b6b6882bbd" />
+<img width="400" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/e23f6518-b969-40dc-a5d9-234bf2ac79e7" />
 
-<img width="2048" height="819" alt="till 2" src="https://github.com/user-attachments/assets/f1189cfe-8d61-41dd-9985-6022863af7d9" />
 
 
 $${\color{pink}Still \space working \space \color{white}on \space this \space \color{lightpink}new \space layout}$$
+<img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/41468ad3-852a-403f-9db1-0fad4f48129f" />
 
 
-<img width="1500" height="500" alt="ivan" src="https://github.com/user-attachments/assets/f6babd12-0240-42ea-87b9-038c50db26d7" />
-<img width="1000" height="111" alt="banner 2" src="https://github.com/user-attachments/assets/6cb391df-1236-45dc-bc2f-9d8ba975b7ff" />
+
+<img width="400" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
