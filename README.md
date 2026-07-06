@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=grey)
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=lightgrey)
 
 <img width="1000" height="111" alt="banner1" src="https://github.com/user-attachments/assets/445f888f-2ada-4915-b549-59b6b6882bbd" />
 
