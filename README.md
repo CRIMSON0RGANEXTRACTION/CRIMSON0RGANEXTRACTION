@@ -13,7 +13,13 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <p align=left>
-<img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" /><img width="150" height="20" alt="wee" src="https://github.com/user-attachments/assets/a6f40e12-1d6f-44aa-8386-05da2f6ecd4c" />
+<img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" /><img width="150" height="20" alt="wee" src="https://github.com/user-attachments/assets/a6f40e12-1d6f-44aa-8386-05da2f6ecd4c" /><img width="150" height="20" alt="oo" src="https://github.com/user-attachments/assets/4412827e-ef0f-4cac-a526-1616f6d66ecf" />
+<img width="150" height="20" alt="hungry" src="https://github.com/user-attachments/assets/ca5c8d22-df95-4411-9800-d13d81ad5206" /><img width="150" height="20" alt="so true" src="https://github.com/user-attachments/assets/0c8f3f45-c051-4e77-b886-9571deb4e71b" /><img width="150" height="20" alt="gulps" src="https://github.com/user-attachments/assets/e0a575a3-143a-40e4-8fb0-75d32e5e0f0e" /><img width="181" height="47" alt="hmm" src="https://github.com/user-attachments/assets/71846595-f8f1-46a9-98df-4b2c8312c8c9" />
+
+
+<img width="592" height="1000" alt="beep" src="https://github.com/user-attachments/assets/c4947327-95be-4228-847c-03849ee18657" />
+
+
 
 
 
