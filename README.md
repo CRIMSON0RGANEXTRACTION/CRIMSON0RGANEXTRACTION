@@ -1,5 +1,5 @@
 
-  ![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=lightgrey)
+  ![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=Darkred)
 
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/e23f6518-b969-40dc-a5d9-234bf2ac79e7" />
@@ -9,8 +9,7 @@
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
 <p align=center>
-<img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/41468ad3-852a-403f-9db1-0fad4f48129f" />
-
+<img width="768" height="544" alt="lulucard" src="https://github.com/user-attachments/assets/41a8b20b-573d-4c9e-ab1c-5acf3d838964" />
 
 <details>
   <summary>$${\color{darkred}MORE\space INFO!}$$</summary>
