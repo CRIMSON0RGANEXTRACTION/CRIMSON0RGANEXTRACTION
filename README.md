@@ -19,12 +19,12 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   <summary>$${\color{darkred}PRONOUNS}$$</summary>
   
   ### Heading
-  1. HE/HIM
-  2. IT/ITS
-  3. THEY/THEM
-  4. VAMP/VAMPS
-  5. MUTT
-  6. Any
+  1. $${\color{darkred}HE/HIM}$$
+  2. $${\color{darkred}IT/ITS}$$
+  3. $${\color{darkblue}HEY/THEM}$$
+  4. $${\color{darkpink}VAMP/VAMPS}$$
+  5. $${\color{darkred}MUTT}$$
+  6. $${\color{darkgrey}Any}$$
      
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
