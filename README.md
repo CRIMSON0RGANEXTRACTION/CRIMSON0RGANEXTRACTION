@@ -11,6 +11,12 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <p align=center>
 <img width="768" height="544" alt="lulucard" src="https://github.com/user-attachments/assets/41a8b20b-573d-4c9e-ab1c-5acf3d838964" />
 
+
+<p align=left>
+<img width="870" height="457" alt="hoaxing" src="https://github.com/user-attachments/assets/b0af6ab2-b7da-46bc-8fad-e85c92de588e" />
+<img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" />
+
+
 <details>
   <summary>$${\color{darkred}MORE\space INFO!}$$</summary>
   
