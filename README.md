@@ -14,6 +14,19 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   
 [STRAWPAGE](https://fanged0rgans.straw.page/)  [ATABOOK](https://organz.atabook.org/)         
 
+
+<details>
+  <summary>$${\color{darkred}PRONOUNS}$$</summary>
+  
+  ### Heading
+  1. HE/HIM
+  2. IT/ITS
+  3. THEY/THEM
+  4. VAMP/VAMPS
+  5. MUTT
+  6. Any
+     
+
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
 
 
