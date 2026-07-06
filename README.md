@@ -18,13 +18,13 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <details>
   <summary>$${\color{darkred}PRONOUNS}$$</summary>
   
-  $${\color{darkred}*YOU MAY USE :}$$
+  $${\color{darkgreen}*YOU MAY USE :}$$
   1. $${\color{darkred}HE/HIM}$$
   2. $${\color{darkred}IT/ITS}$$
   3. $${\color{darkblue}HEY/THEM}$$
-  4. $${\color{darkpink}VAMP/VAMPS}$$
+  4. $${\color{darkblue}VAMP/VAMPS}$$
   5. $${\color{darkred}MUTT}$$
-  6. $${\color{darkgrey}Any}$$
+  6. $${\color{darkred}Any}$$
      
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
