@@ -11,11 +11,10 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <details>
-  <summary>$${\color{darkred}*More info*}$$</summary>
- ### LINKS
+  <summary>$${\color{darkred}MORE INFO!}$$</summary>
   
- [STRAWPAGE](https://fanged0rgans.straw.page/) 
- 
+  $${\color{darkgreen}*LINKS* :}$$
+  [STRAWPAGE](https://fanged0rgans.straw.page/) 
   [ATABOOK](https://organz.atabook.org/)         
 
 
