@@ -10,9 +10,13 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 <img width="564" height="564" alt="alucard 1" src="https://github.com/user-attachments/assets/41468ad3-852a-403f-9db1-0fad4f48129f" />
 
 
-<p align=left>
+<details>
+  <summary>$${\color{darkred}*More info*}$$</summary>
+ ### LINKS
   
-[STRAWPAGE](https://fanged0rgans.straw.page/)  [ATABOOK](https://organz.atabook.org/)         
+ [STRAWPAGE](https://fanged0rgans.straw.page/) 
+ 
+  [ATABOOK](https://organz.atabook.org/)         
 
 
 <details>
