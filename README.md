@@ -36,7 +36,9 @@ $${\color{darkred}\space you \space may \space use}$$
   6. $${\color{darkred}Any}$$
      
 
-<img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/70a0e05d-38d7-4a0b-baf1-b769c9c49cfc" />
+
+<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
+
 
 
 <p align="center">
