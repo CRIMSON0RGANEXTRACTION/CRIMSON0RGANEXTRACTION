@@ -1,1 +1,1 @@
-[![Visitor Count](https://profile-counter.glitch.me/{CRIMSON0RGANEXTRACTION}/count.svg)]
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=Pink)
