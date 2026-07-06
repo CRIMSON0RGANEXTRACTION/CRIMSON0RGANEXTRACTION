@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=lightgrey)
+<p align=center>
+[![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=lightgrey)]
+
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/e23f6518-b969-40dc-a5d9-234bf2ac79e7" />
 
