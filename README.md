@@ -2,7 +2,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=CRIMSON0RGANEXTRACTION%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Vamplings&style=upper)
   
 
-<img width="723" height="10028" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
+<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
 
 
 
