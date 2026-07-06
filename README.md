@@ -1,5 +1,5 @@
-<p align=center>
-[![Views Counter](https://views-counter.vercel.app/badge?pageId=CRIMSON0RGANEXTRACTION%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Vamplings&style=upper)]
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=CRIMSON0RGANEXTRACTION%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Vamplings&style=upper)
   
 
 <img width="1000" height="50" alt="did 2#" src="https://github.com/user-attachments/assets/e23f6518-b969-40dc-a5d9-234bf2ac79e7" />
