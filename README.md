@@ -13,8 +13,8 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <p align=left>
-<img width="870" height="457" alt="hoaxing" src="https://github.com/user-attachments/assets/b0af6ab2-b7da-46bc-8fad-e85c92de588e" />
-<img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" />
+<img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" /><img width="150" height="20" alt="wee" src="https://github.com/user-attachments/assets/a6f40e12-1d6f-44aa-8386-05da2f6ecd4c" />
+
 
 
 <details>
