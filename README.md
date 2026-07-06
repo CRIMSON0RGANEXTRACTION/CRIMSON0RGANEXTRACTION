@@ -17,17 +17,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
   
   [STRAWPAGE](https://fanged0rgans.straw.page/) 
-  [ATABOOK](https://organz.atabook.org/)         <details>
-  <summary>$${\color{darkred}PRONOUNS}$$</summary>
-  
-$${\color{darkred}\space you \space may \space use}$$
-  1. $${\color{darkred}HE/HIM}$$
-  2. $${\color{darkred}IT/ITS}$$
-  3. $${\color{darkblue}THEY/THEM}$$
-  4. $${\color{darkblue}VAMP/VAMPS}$$
-  5. $${\color{darkred}MUTT}$$
-  6. $${\color{darkred}Any}$$
-     
+  [ATABOOK](https://organz.atabook.org/)         
 
 
 
