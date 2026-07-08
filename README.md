@@ -34,11 +34,11 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   
 
   
-  [STRAWPAGE](https://fanged0rgans.straw.page/) 
+  [PRONOUNS PAGE](https://en.pronouns.page/@0Rganz) 
   
   [ATABOOK](https://organz.atabook.org/) 
   
-  [STRAWPAGE 2](https://organs-info.straw.page) 
+  [STRAWPAGE](https://organs-info.straw.page) 
 
 
 
