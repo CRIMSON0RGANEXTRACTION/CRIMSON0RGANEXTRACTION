@@ -1,4 +1,4 @@
-<p align="center">
+
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=CRIMSON0RGANEXTRACTION%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Vamplings&style=upper)
 </p>
 
