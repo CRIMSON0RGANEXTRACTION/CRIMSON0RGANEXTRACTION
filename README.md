@@ -42,7 +42,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <p align=right>
-6-7TEEN˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ HE/IT unless friends
+$${\color{B22222}6-7TEEN˚\color{E64F2F}₊‧꒰ა ✦ ໒꒱ ‧₊˚ \color{FFFFFF}HE/IT unless friends}$$
   <p align=right>
 "𐌕𐋅𐌉𐌔 𐌉𐌔 𐌕𐋅𐌄 𐌊𐌉𐌍𐌃 Ꝋ𐌅 𐌍𐌉Ᏽ𐋅𐌕 𐌕𐋅𐌀𐌕 𐌌𐌀𐌊𐌄𐌔 𐌌𐌄 𐌅𐌄𐌄𐌋 𐌋𐌉𐌊𐌄 𐌔𐌵𐌂𐌊𐌉𐌍Ᏽ 𐌁𐌋ꝊꝊ𐌃!"
 <p align=right>
