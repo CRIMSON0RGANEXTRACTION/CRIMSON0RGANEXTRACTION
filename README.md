@@ -33,6 +33,43 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 
+
+
+
+
+
+
+
+
+<p align=right>
+6-7TEEN˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ HE/IT unless friends
+  <p align=right>
+"𐌕𐋅𐌉𐌔 𐌉𐌔 𐌕𐋅𐌄 𐌊𐌉𐌍𐌃 Ꝋ𐌅 𐌍𐌉Ᏽ𐋅𐌕 𐌕𐋅𐌀𐌕 𐌌𐌀𐌊𐌄𐌔 𐌌𐌄 𐌅𐌄𐌄𐌋 𐌋𐌉𐌊𐌄 𐌔𐌵𐌂𐌊𐌉𐌍Ᏽ 𐌁𐌋ꝊꝊ𐌃!"
+<p align=right>
+INT FANDOMSS>>>"ɢᴀᴍʙʟɪɴɢ ʏᴏᴜʀ ꜱᴏᴜʟ ᴀᴡᴀʏ ɪꜱ ᴍʏ ʟᴏᴠᴇʟʏ ꜰᴀɴᴛᴀꜱʏ, ʟɪꜱᴛᴇɴ ᴛᴏ ᴅᴇᴀᴛʜ ᴡᴏɴ'ᴛ ʏᴏᴜ ᴅᴇᴀʀ?"
+
+
+
+
+<p align=right>
+<img width="200" height="565" alt="seras" src="https://github.com/user-attachments/assets/953284af-202e-488e-a49d-c1bc2dd3265b" />
+<p align=right>
+  <img width="100" height="107" alt="pome" src="https://github.com/user-attachments/assets/ab949826-ca86-4aad-84a5-d8be1f240e1a" />
+
+<img width="1000" height="32" alt="divi" src="https://github.com/user-attachments/assets/d7ee8970-1601-4d49-8802-214d7e59a44d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
   <summary>$${\color{darkred}MORE\space INFO!}$$</summary>
   
