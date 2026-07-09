@@ -81,7 +81,7 @@ Blue tells you i was never ok. it show how much you can trust me
   
   [ATABOOK](https://organz.atabook.org/) 
   
-  [STRAWPAGE](https://organs-info.straw.page)  still a wip!
+  [STRAWPAGE](https://fanged0rgans.straw.page)  still a wip!
 
 
 
