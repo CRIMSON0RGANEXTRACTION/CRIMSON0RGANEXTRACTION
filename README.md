@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&label=VAMPS)
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&label=VAMPS&colour=red)
 
 
 
