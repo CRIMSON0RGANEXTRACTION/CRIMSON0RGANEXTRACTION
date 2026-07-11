@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="//seeyoufarm.com ?label=vamps=705126&style=flat" alt="Profile Views" />
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCRIMSO0RGANEXTRACTION%2Fhit-counter&count_bg=%23700000&title_bg=%23D94141&icon=&icon_color=%23E7E7E7&title=vamps&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
