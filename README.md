@@ -1,5 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=red&label=˖𖤐VAMPS.&style=upper)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=red&label=˖𖤐VAMPS.&style=upper" alt="Vamps Counter" />
+</p>
+
+
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
 
