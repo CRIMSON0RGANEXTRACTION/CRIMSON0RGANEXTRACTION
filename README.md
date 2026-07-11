@@ -91,7 +91,7 @@ Blue tells you i was never ok. it show how much you can trust me
   <summary>$${\color{darkred}PRONOUNS}$$</summary>
   
 $${\color{darkred}\space you \space may \space use}$$
-  1. $${\color{darkred}HE/HIM}$$
+  1. $${\color{darkblue}HE/HIM}$$
   2. $${\color{darkred}IT/ITS}$$
   3. $${\color{darkblue}THEY/THEM}$$
   4. $${\color{darkblue}VAMP/VAMPS}$$
