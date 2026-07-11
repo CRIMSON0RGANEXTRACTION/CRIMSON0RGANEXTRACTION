@@ -1,6 +1,6 @@
 ![](https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=8B0000&accent=3c3c3c&icon=true)
 <p align="center">
-  <img src="![](https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=8B0000&accent=3c3c3c&icon=true)" alt="Profile Views" />
+  <img src="(https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=8B0000&accent=3c3c3c&icon=true)" alt="Profile Views" />
 </p>
 
 
