@@ -1,8 +1,7 @@
-
 <p align="center">
-  <img src="CRIMSON0RGANEXTARCTIONlabel=Vamps&color=705126&style=flat" alt="Profile Views" />
+  <img src="(https://komarev.com/ghpvc/?username=CRIMSO0RGANEXTRACTION)?label=ִ ࣪𖤐&color=880808&style=flat" alt="Profile Views" />
 </p>
-<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
+
 
 
 
