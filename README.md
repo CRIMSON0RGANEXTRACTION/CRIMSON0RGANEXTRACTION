@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com label=A+SIGN+YOU+WANT&color=705126&style=flat"alt="Profile Views" />
-</p>
-
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&label=VAMPS)
 
 
 
