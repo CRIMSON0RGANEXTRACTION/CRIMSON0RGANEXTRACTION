@@ -1,12 +1,6 @@
 <p align="center">
-<img src=(https://komarev.com/ghpvc/?username=your-github-username&color=dc143c) />
-</p>
-
-
-<p align="center">
   <img src="YOUR_GITHUB_SITE_LINK?label=A+SIGN+YOU+WANT&color=705126&style=flat" alt="Profile Views" />
 </p>
-
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
