@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CRIMSO0RGANEXTRACTIONlabel=ִ ࣪𖤐&color=880808&style=flat" alt="Profile Views" />
-</p>
-
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
