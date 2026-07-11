@@ -1,5 +1,6 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=˖𖤐&style=upper)
 
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&rightColor=ff8080&leftColor=400000&type=unique&sessionExpire=60&label=˖𖤐&style=upper)
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
