@@ -1,4 +1,4 @@
-![](https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=ff0000&accent=3c3c3c&icon=true)
+![](https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=8B0000&accent=3c3c3c&icon=true)
 
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
