@@ -1,6 +1,4 @@
-
-  ![Views Counter](https://views-counter.vercel.app/badge?pageId=CRIMSON0RGANEXTRACTIONViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=⋆༺𖤍༻⋆&style=upper)
-
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=˖𖤐&style=upper)
 
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
