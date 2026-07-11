@@ -1,5 +1,6 @@
-![](https://view-counter.tobyhagan.com/?user={CRIMSON0RGANEXTRACTION}&base=8B0000&accent=3c3c3c&icon=true)
-
+<p align="center">
+  <img src="[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCRIMSON0RGANEXTRACTION%2Fhit-counter&count_bg=%23EB6464&title_bg=%23560000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)?label=Vamps&color=705126&style=flat" alt="Profile Views" />
+</p>
 
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
