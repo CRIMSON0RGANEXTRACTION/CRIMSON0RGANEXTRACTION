@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CRIMSON0RGANEXTRACTION?label=Vamp&color=705126&style=flat" alt="Profile Views" />
+  <img src="//seeyoufarm.com ?label=vamps=705126&style=flat" alt="Profile Views" />
 </p>
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
