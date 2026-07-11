@@ -1,8 +1,21 @@
 
+
+
+<p align="center">
+  <img src="https://mila.io" alt="Profile Views" />
+</p>
+
+
+
+
+
+
+
+
+
+
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
-<p align=center>
-<img width="768" height="544" alt="lulucard" src="https://github.com/user-attachments/assets/41a8b20b-573d-4c9e-ab1c-5acf3d838964" />
 
 
 <p align=left>
