@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&label=˖𖤐VAMPS𖤐&style=upper)
+![](https://komarev.com/ghpvc/?username=CRIMSON0RGANEXTRACTION&color=red&label=˖𖤐VAMPS𖤐&style=upper)
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
