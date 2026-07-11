@@ -6,6 +6,9 @@
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
 
+<img width="1068" height="544" alt="lulucard" src="https://github.com/user-attachments/assets/0b7256ff-0e85-43fc-b4fb-2045688153a3" />
+
+
 
 <p align=left>
 <img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/5654a0f3-1ed8-40a6-8faa-a1a47c845a58" /><img width="150" height="20" alt="wee" src="https://github.com/user-attachments/assets/a6f40e12-1d6f-44aa-8386-05da2f6ecd4c" /><img width="150" height="20" alt="oo" src="https://github.com/user-attachments/assets/4412827e-ef0f-4cac-a526-1616f6d66ecf" />
