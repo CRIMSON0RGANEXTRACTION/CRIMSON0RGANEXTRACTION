@@ -1,17 +1,6 @@
 
 
 
-<p align="center">
-  <img src="https://mila.io" alt="Profile Views" />
-</p>
-
-
-
-
-
-
-
-
 
 
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
