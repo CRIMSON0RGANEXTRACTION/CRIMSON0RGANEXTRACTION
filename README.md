@@ -28,7 +28,9 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 <p align="center">
-<img width="269" height="45" alt="TextStudio-Typewriter (1)" src="https://github.com/user-attachments/assets/5fa2f5a6-0557-4166-b2f8-7a4e4456cb10" />
+<img width="219" height="42" alt="TextStudio-Typewriter" src="https://github.com/user-attachments/assets/df2d88e1-81b6-42f9-a8f2-47fc1ea36222" />
+
+
 
 <img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
 
