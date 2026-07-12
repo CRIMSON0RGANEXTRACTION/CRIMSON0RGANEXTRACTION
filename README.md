@@ -33,44 +33,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 
-
-
-
-
-
-
-
-<p align=right>
-6-7TEEN˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ HE/IT unless friends
-  <p align=right>
-"𐌕𐋅𐌉𐌔 𐌉𐌔 𐌕𐋅𐌄 𐌊𐌉𐌍𐌃 Ꝋ𐌅 𐌍𐌉Ᏽ𐋅𐌕 𐌕𐋅𐌀𐌕 𐌌𐌀𐌊𐌄𐌔 𐌌𐌄 𐌅𐌄𐌄𐌋 𐌋𐌉𐌊𐌄 𐌔𐌵𐌂𐌊𐌉𐌍Ᏽ 𐌁𐌋ꝊꝊ𐌃!"
-<p align=right>
-INT FANDOMSS>>>"ɢᴀᴍʙʟɪɴɢ ʏᴏᴜʀ ꜱᴏᴜʟ ᴀᴡᴀʏ ɪꜱ ᴍʏ ʟᴏᴠᴇʟʏ ꜰᴀɴᴛᴀꜱʏ, ʟɪꜱᴛᴇɴ ᴛᴏ ᴅᴇᴀᴛʜ ᴡᴏɴ'ᴛ ʏᴏᴜ ᴅᴇᴀʀ?"
-
-
-
-
-<p align=right>
-<img width="200" height="297" alt="seras" src="https://github.com/user-attachments/assets/953284af-202e-488e-a49d-c1bc2dd3265b" />
-<p align=right>
-  <img width="100" height="107" alt="pome" src="https://github.com/user-attachments/assets/ab949826-ca86-4aad-84a5-d8be1f240e1a" />
-
-<img width="1000" height="32" alt="divi" src="https://github.com/user-attachments/assets/d7ee8970-1601-4d49-8802-214d7e59a44d" />
-
-
-
-<p align=left>
-$${\color{8b0000}Red \space is \space so \space \color{ff0000}lovely \space it \space shows  \color{#eeeeee} \space how \space much \space i \space hate \space and \space deeply \space love \space you}$$
-
-<p align=right>
-Blue tells you i was never ok. it show how much you can trust me
-
-
-
-
-
-
-
+<p align=center>
 <details>
   <summary>$${\color{darkred}MORE\space INFO!}$$</summary>
   
@@ -87,6 +50,7 @@ Blue tells you i was never ok. it show how much you can trust me
 
 
 
+<p align=right>
 <details>
   <summary>$${\color{darkred}PRONOUNS}$$</summary>
   
@@ -98,6 +62,12 @@ $${\color{darkred}\space you \space may \space use}$$
   5. $${\color{darkred}MUTT}$$
   6. $${\color{darkred}Any}$$
      
+
+
+
+
+
+
 
 
 <img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
