@@ -4,6 +4,17 @@
 </p>
 
 
+<p align="center">
+<img width="219" height="42" alt="TextStudio-Typewriter" src="https://github.com/user-attachments/assets/df2d88e1-81b6-42f9-a8f2-47fc1ea36222" />
+
+
+
+
+
+
+
+
+
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
 
