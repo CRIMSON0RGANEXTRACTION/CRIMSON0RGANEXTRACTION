@@ -26,6 +26,17 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 
+<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
+<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
+
 
 
 <p align=center>
@@ -54,15 +65,3 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 
-<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
-
-
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
-
-<img width="1023" height="128" alt="lulucard banner" src="https://github.com/user-attachments/assets/bce8b5aa-1c6a-4223-9f02-c343a82908e3" />
