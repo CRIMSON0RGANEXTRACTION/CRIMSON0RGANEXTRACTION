@@ -26,11 +26,6 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
 
 
 
-<p align=left>
-<img width="200" height="297" alt="lucardu" src="https://github.com/user-attachments/assets/b7242859-70ca-401e-b61f-e26a9f6a87bb" />
-
-
-
 
 
 <p align=center>
