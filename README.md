@@ -6,12 +6,6 @@
 
 
 
-<img width="269" height="45" alt="TextStudio-Typewriter (1)" src="https://github.com/user-attachments/assets/63700a03-cbac-447a-8fdf-49989204cb02" />
-
-
-
-
-
 $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i'll \space paint \color{lightgrey} \space it}$$
 
 
@@ -63,7 +57,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   
   [ATABOOK](https://organz.atabook.org/) 
   
-  [STRAWPAGE](https://fanged0rgans.straw.page)  still a wip!
+  [STRAWPAGE](https://fanged0rgans.straw.page) - wip
 
 
 
