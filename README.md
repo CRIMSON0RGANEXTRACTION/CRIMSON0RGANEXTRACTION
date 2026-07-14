@@ -56,9 +56,9 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   [PRONOUNS PAGE](https://en.pronouns.page/@0Rganz) 
   
   [ATABOOK](https://organz.atabook.org/) 
-  
-  [STRAWPAGE](https://fanged0rgans.straw.page) - wip
 
+
+  i'm working on a proper straw !
 
 
 
