@@ -61,7 +61,7 @@ $${\color{white}Spill \space your \space guts \space \color{darkred}and \space i
   [STRAWPAGE](https://organs-info.straw.page) i'm working on a proper straw !
 
 
-
+  [Detailed pronouns](https://pronouny.xyz/u/gutted) block if u feel uncomfortable w these 
 
 
 
